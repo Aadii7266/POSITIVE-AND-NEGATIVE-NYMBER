@@ -1,4 +1,4 @@
-// AADITY APRIHAR
+// AADITYA PARIHAR
 #include<iostream>
 using namespace std;
 int main()
